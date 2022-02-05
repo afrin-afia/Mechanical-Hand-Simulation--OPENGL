@@ -1,2 +1,2 @@
-# Mechanical-Hand-Simulation--OPENGL
+# Mechanical-Hand-Simulation
 Simulation of a mechanical hand using OPENGL library
